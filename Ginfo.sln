@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ginfo.Web", "Ginfo.Web\Ginfo.Web.csproj", "{7DB2B84F-2C7F-4241-A6D7-51A6A8DE16B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GInfo.Web", "Ginfo.Web\GInfo.Web.csproj", "{7DB2B84F-2C7F-4241-A6D7-51A6A8DE16B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFiles", "SolutionFiles", "{75933085-E86C-4C77-ABDE-14620B9521B1}"
 	ProjectSection(SolutionItems) = preProject
@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFiles", "SolutionFi
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GInfo.Common", "GInfo.Common\GInfo.Common.csproj", "{DAD510CD-2A04-460D-B86D-21FCDF3766E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GInfo.Common", "GInfo.Common\GInfo.Common.csproj", "{DAD510CD-2A04-460D-B86D-21FCDF3766E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

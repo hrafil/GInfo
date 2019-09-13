@@ -14,7 +14,7 @@ namespace Ginfo.Web.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "tstststs", "value2" };
+            return new string[] { "testApi", "ahoj", "vitej" };
         }
 
         // GET api/values/5
